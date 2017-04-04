@@ -1,3 +1,4 @@
-non, je ne suis pas un fichier texte
+﻿non, je ne suis pas un fichier texte
 j'aime ma femme.
 branch one one n'a pas modifié celà.
+et maintenant le master ne modifie pas celà.
