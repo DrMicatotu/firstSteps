@@ -1,0 +1,2 @@
+# firstSteps
+discovering Git
